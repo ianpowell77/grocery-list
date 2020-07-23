@@ -1,0 +1,7 @@
+.product-grid {
+  @media (min-width: 768px) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+} // .product-grid
